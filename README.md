@@ -2,7 +2,7 @@
 <h3 align="center">Backend-разработчик на Python</h3>
 
 <p align="center">
-  <a href="https://t.me/Usman_it" target="_blank">
+  <a href="https://t.me/Usman_to" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
@@ -72,5 +72,5 @@
 
 ## 📫 Контакты и связи
 
-- **Telegram:** [@Usman_it](https://t.me/Usman_it)
+- **Telegram:** [@Usman_it](https://t.me/Usman_to)
 - **Email:** usmanakkaev@gmail.com
