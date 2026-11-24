@@ -1,8 +1,8 @@
-![Usman — Python backend](./assets/usman-header.svg)
+# Привет, я Усман 👋
 
-Учусь в ИТМО на прикладной математике и информатике. На Python пишу API для своих проектов, на C++ разбираю алгоритмы и структуры данных.
+Учусь в ИТМО на **Software Engineering**. Разрабатываю бэкенд для своих проектов и изучаю алгоритмы и структуры данных.
 
-[Telegram ↗](https://t.me/taqven) · [usmanakkaev@gmail.com](mailto:usmanakkaev@gmail.com)
+[Telegram · @taqven](https://t.me/taqven) · [usmanakkaev@gmail.com](mailto:usmanakkaev@gmail.com)
 
 ## Избранные проекты
 
@@ -17,5 +17,4 @@
 
 ## Инструменты
 
-`PostgreSQL` · `Redis` · `Celery` · `pytest` · `Docker Compose` · `Nginx`  
-Работаю в Arch Linux, для C++ использую Vim, Clang и CMake.
+`PostgreSQL` · `Redis` · `Celery` · `pytest` · `Docker Compose` · `Nginx` · `Arch Linux`
