@@ -1,6 +1,4 @@
-# Привет, я Усман 👋
-
-Учусь в ИТМО на **Software Engineering**. Разрабатываю бэкенд для своих проектов и изучаю алгоритмы и структуры данных.
+Учусь в ИТМО на **Software Engineering**. Разрабатываю бэкенд для своих проектов и изучаю алгоритмы.
 
 [Telegram · @taqven](https://t.me/taqven) · [usmanakkaev@gmail.com](mailto:usmanakkaev@gmail.com)
 
@@ -17,4 +15,4 @@
 
 ## Инструменты
 
-`PostgreSQL` · `Redis` · `Celery` · `pytest` · `Docker Compose` · `Nginx` · `Arch Linux`
+`PostgreSQL` · `Redis` · `Celery` · `pytest` · `Docker Compose` · `Nginx` · `Linux`
